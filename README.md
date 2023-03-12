@@ -1,6 +1,8 @@
 # hello-world
 Git and GitHub tutorial
 
+And now editing from a branch.
+
 
 ## Markdown (H2 header)
 This is markdown notation:
