@@ -22,3 +22,13 @@ horizontal rule:
 link: [youtube](htts://www.youtube.com)
 
 image ![description](image.jpg)
+
+To create newlines, add an empty line between lines like this:
+
+Newline.
+
+Just leaving newline within a line doesn't work
+ like this. 
+
+But leavering a newline within a line and then add two spaces:  
+Does work.
